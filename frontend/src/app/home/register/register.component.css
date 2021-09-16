@@ -11,6 +11,7 @@
   min-width: 150px;
   max-width: 500px;
   width: 100%;
+  background: #8d999c;
 }
 
 .form {
@@ -25,12 +26,12 @@ mat-card-title {
 }
 
 .colorButton {
-  background-color: #3d3838;
+  background-color: #8d999c;
   color: white;
 }
 
 .coloField {
-  color: #3d3838;
+  color: #33383a;
 }
 
 .bg-component {
